@@ -9,5 +9,6 @@ K = 1/9 [1 1 1, 1 1 1, 1 1 1]
 
 # Steps to be followed to run script:
 1. Copy the script in your code
-2. Download required packages (stated in Requirement.txt)
-3. Run the code
+2. Replace 'Original.jpg' with your image file name
+3. Download required packages (stated in Requirement.txt)
+4. Run the code
