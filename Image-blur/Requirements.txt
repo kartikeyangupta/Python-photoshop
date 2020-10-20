@@ -1,0 +1,1 @@
+Required packages: opencv-python, numpy, matplotlib
